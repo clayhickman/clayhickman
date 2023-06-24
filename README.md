@@ -1,3 +1,3 @@
-<h2 align="center">My name is Clay. 👋</h2>
+<h2 align="center">Hi, I'm Clay. 👋</h2>
 
 <p align="center">I tinker with computers often.</p>
