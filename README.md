@@ -1,3 +1,3 @@
-<h2 align="center">Hi, I'm Clay. 👋</h2>
+<h2 align="center">:waxing_gibbous_moon: Clay Hickman :waning_gibbous_moon:</h2>
 
-<p align="center">I tinker with computers often.</p>
+<p align="center">Miscellaneous computer musings.</p>
