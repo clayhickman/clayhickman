@@ -1,3 +1,3 @@
-<h2 align="center">:waxing_gibbous_moon: Clay Hickman :waning_gibbous_moon:</h2>
+<h2 align="center">43 6C 61 79  48 69 63 6B 6D 61 6E</h2>
 
-<p align="center">Miscellaneous computer musings.</p>
+<p align="center">01010101 01110000 01100100 01100001 01110100 01101001 01101110 01100111 00101110 00101110 00101110</p>
